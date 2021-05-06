@@ -1,1 +1,1 @@
-# nuxt-wd-blog
+# WD Blog
